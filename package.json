@@ -1,0 +1,12 @@
+﻿{
+  "name": "gub-connect",
+  "version": "1.0.0",
+  "private": true,
+  "description": "GUB Connect - Green University community platform",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "engines": {
+    "node": ">=22.5.0"
+  }
+}
